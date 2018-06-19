@@ -2,7 +2,7 @@
 <div class="footer" style="padding:1em;">
 	<div class="container">
 		<div class="w3_footer_grids">
-			<div class="col-md-3 w3_footer_grid" style="width:35%;margin-left:100px;">
+			<div class="col-md-3 w3_footer_grid" style="width:36%;">
 				<h3 style="margin-bottom:1em;">Contact</h3>		
 				<ul class="address">
 					<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Naranpura, Ahmedabad City.</li>
@@ -10,7 +10,7 @@
 					<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+91 7405179376</li>
 				</ul>
 			</div>
-			<div class="col-md-3 w3_footer_grid" style="width:30%;">
+			<div class="col-md-3 w3_footer_grid" style="width:35%;">
 				<h3 style="margin-bottom:1em;">Information</h3>
 				<ul class="info"> 
 					<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="index.php?page=contact">Contact Us</a></li>
@@ -18,7 +18,7 @@
 					<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="#">Special Products</a></li>
 				</ul>
 			</div>
-			<div class="col-md-3 w3_footer_grid" style="width:20%;">
+			<div class="col-md-3 w3_footer_grid" style="width:22%;">
 				<h3 style="margin-bottom:1em;">Profile</h3>
 				<ul class="info">
 					<?php
