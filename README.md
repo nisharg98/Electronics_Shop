@@ -13,4 +13,4 @@ To Run This This Project Follow Below Steps:
 8.From Topbar Menu Click On Import and It Will Show File To Import Then Click On Choose File.
 9.Select The SQL File From Project Folder 'Electronics_shop/Databse' Which Name Is 'electronics_shop.sql' and Click On Go Button
   Without Changes Any Settings.
-10.Open localhost/Electronics_shop/ From url
+10.Now Open localhost/Electronics_shop From url And Enjoy The Project.
